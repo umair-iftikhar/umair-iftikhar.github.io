@@ -1,7 +1,6 @@
 - **Mobile:** +92-311-711-1663
 - **Email:** <umair.ifti@protonmail.ch>
 - **Blog:** <https://umair-iftikhar.medium.com>
-
 ## Summary
 
 Solution Architect with more than 11 years of experience in leading globally distributed software development teams of up to 25 people that build applications and deliver business value for companies ranging in size from startups to multinational IT Companies. Demonstrated history of 5 years working in the professional IT training & coaching industry.

@@ -2,7 +2,7 @@
 
 - **Mobile:** +92-311-711-1663
 - **Email:** umair.ifti@protonmail.ch
-- **Blog:** (https://umair-iftikhar.medium.com)
+- **Blog:** [](https://umair-iftikhar.medium.com)
 
 ## Summary
 

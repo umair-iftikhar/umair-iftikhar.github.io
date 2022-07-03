@@ -1,4 +1,4 @@
-# Umair Iftilhar
+# Umair Iftikhar
 
 **Mobile:** +92-311-711-1663
 **Email:** umair.ifti@protonmail.ch

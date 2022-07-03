@@ -10,7 +10,5 @@ Solution Architect with more than 11 years of experience in leading globally dis
 ### Career Highlights:
 
 - Designed and developed the software and hardware architecture and system of traffic signals for the City of Faisalabad, Pakistan.
-
 - Led the team of 15 people to design and develop the IoT gateways to monitor data center's electrical and cooling infrastructure.
-
 - Reduced OPEX of an educational institution by 15% by developing and implementing a school management system.

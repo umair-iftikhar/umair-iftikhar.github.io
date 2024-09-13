@@ -7,4 +7,3 @@
 Solution Architect | Product Management
 
 #iot, #data, #dataanalytics, and #solutionsarchitect
-

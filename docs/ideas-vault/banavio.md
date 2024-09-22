@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Banavio
 
-Docusaurus can manage multiple versions of your docs.
+Digital alternatives of Business Cards.
 
 ## Create a docs version
 

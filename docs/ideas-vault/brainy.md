@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Translate your site
+# Brainy
 
-Let's translate `docs/intro.md` to French.
+Platform to discuss about startups.
 
 ## Configure i18n
 

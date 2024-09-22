@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
+    title: 'The Idea Vault',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Explore a collection of startup ideas I’ve designed and developed. All my ideas and projects are showcased here, available for collaboration and exploration.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Leading Digital Transformation',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        I led digital transformation and strategic initiatives, crafting innovative solutions and managed teams for startups and multinationals.
+      </>
+    ),
+  },
+  {
+    title: 'Powered by Docusaurus',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This site is proudly built with Docusaurus, blending simplicity and power to create a dynamic space for my ideas and work.
       </>
     ),
   },
